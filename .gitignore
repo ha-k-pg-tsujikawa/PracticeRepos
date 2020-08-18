@@ -1,0 +1,5 @@
+*.filters
+*.user
+HelloWorld/Debug/
+HelloWorld/.vs/
+HelloWorld/HelloWorld/Debug/
